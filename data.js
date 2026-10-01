@@ -49,3 +49,7 @@ let id=Symbol("234")
 console.log(Symbol)
 
 console.log(typeof(null));
+
+console.log("hi")
+
+let name= "ramesh"
